@@ -1,0 +1,16 @@
+{
+    "id": "16",
+    "first_name": "Matt",
+    "last_name": "Babineau",
+    "email": "mbabineau@tvpage.com",
+    "password": "$2a$07$fxieQqFJCpOp1AD4GEgLNOE5uAIL6E3e2IZmqxN4WGpoPQGXuVEli",
+    "password_salt": "$2a$07$fxieQqFJCpOp1AD4GEgLNYDbr$",
+    "data": "{\"profilePhoto\":\"\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg\",\"job_title\":\"asd\",\"local_macys_store\":\"-1\",\"racif_id\":\"123\",\"phone_number\":\"123\",\"auto_approve\":false,\"incentive\":\"0%\",\"tongal\":\"\"}",
+    "last_login_timestamp": null,
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-19 01:47:10",
+    "login_id": "1759121",
+    "user_id": "16",
+    "role_id": "2",
+    "status": "3"
+}

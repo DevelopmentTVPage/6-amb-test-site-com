@@ -1,0 +1,17 @@
+{
+    "url": "\/a\/test_ex",
+    "first_name": "test",
+    "last_name": "ex",
+    "email": "test@ex.com",
+    "id": "1637",
+    "login_id": "1759121",
+    "data": {
+        "incentive": "3",
+        "profilePhoto": "\/api\/canvas\/logo\/615309758-0.1250553090125.jpg",
+        "job_title": "asdfa",
+        "local_macys_store": "1",
+        "racif_id": "1112333223",
+        "phone_number": "123123131323"
+    },
+    "type": "captivate"
+}

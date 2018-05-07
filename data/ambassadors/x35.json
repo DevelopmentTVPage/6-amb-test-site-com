@@ -1,0 +1,16 @@
+{
+    "id": "35",
+    "first_name": "asdf",
+    "last_name": "asdf",
+    "email": "asdf@example.com",
+    "password": "$2a$07$96T6iMJoUy8CbBpnJvkRjufcQaAFann3\/.ksI0hg53Wby6hvQkx1y",
+    "password_salt": "$2a$07$96T6iMJoUy8CbBpnJvkRj0dUf$",
+    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"asdf\",\"local_macys_store\":\"1\",\"racif_id\":\"12312333\",\"phone_number\":\"1231231233\"}",
+    "last_login_timestamp": null,
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-27 16:37:24",
+    "login_id": "1759121",
+    "user_id": "35",
+    "role_id": "2",
+    "status": "1"
+}

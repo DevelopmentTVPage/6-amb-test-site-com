@@ -1,0 +1,19 @@
+{
+    "url": "\/a\/Wendye_Flores",
+    "first_name": "Wendye",
+    "last_name": "Flores",
+    "email": "wendyeflores30@gmail.com",
+    "id": "34",
+    "login_id": "1759121",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Sales Associate",
+        "local_macys_store": "236",
+        "racif_id": "10308345",
+        "phone_number": "8058899285",
+        "auto_approve": false,
+        "incentive": "0",
+        "tongal": ""
+    },
+    "type": "captivate"
+}

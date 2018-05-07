@@ -1,0 +1,17 @@
+{
+    "url": "\/a\/Tester_Tester",
+    "first_name": "Tester",
+    "last_name": "Tester",
+    "email": "tester+12345@mail.comn",
+    "id": "1631",
+    "login_id": "1759121",
+    "data": {
+        "incentive": "15",
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Tester",
+        "local_macys_store": "5",
+        "racif_id": "233232",
+        "phone_number": "32323"
+    },
+    "type": "captivate"
+}
